@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://enes.furkan21">![image](https://github.com/user-attachments/assets/05e67022-53ff-4b37-88ec-36d56d34fe48)
-Instagram</a> |
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> |
   <a href="https://twitter.com/yourprofile">🐦 Twitter</a> |
   <a href="mailto:ensfurkan2135@gmail.com">📧 Email</a>
