@@ -1,7 +1,7 @@
 <h1 align="center">Selamünaleyküm 👋</h1>
 
 <p align="center">
-  Ben<strong> Enes Furkan KARAMAN </strong>,bir Yazılım Mühendisi ve tutkulu bir geliştiriciyim.
+  Ben<strong> Enes Furkan KARAMAN </strong>,şuan yazılım geliştirme okuyorum.
 </p>
 
 <p align="center">
