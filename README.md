@@ -1,40 +1,44 @@
-# Merhaba, Ben Enes Furkan 👋
+<h1 align="center">Merhaba 👋</h1>
 
-Endüstri Meslek Lisesi Bilişim Teknolojileri bölümü öğrencisiyim ve yazılım alanında kendimi geliştirmeyi hedefliyorum. 
+<p align="center">
+  Ben<strong>Enes Furkan KARAMAN</strong>,bir Yazılım Mühendisi ve tutkulu bir geliştiriciyim.
+</p>
 
-## 🚀 Hedefim
-Yazılım dünyasında yeteneklerimi geliştirmek, projeler üretmek ve açık kaynak topluluğuna katkıda bulunmak. Amacım yazılım mühendisliği alanında kariyerime yön vermek ve toplulukla birlikte büyümek.
+<p align="center">
+  <a href="https://enes.furkan21">🌍Instagram</a> |
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> |
+  <a href="https://twitter.com/yourprofile">🐦 Twitter</a> |
+  <a href="mailto:ensfurkan2135@gmail.com">📧 Email</a>
+</p>
 
-## 📚 Hakkımda
-- **İsim**: Enes Furkan KARAMAN
-- **Eğitim**: Endüstri Meslek Lisesi, Bilişim Teknolojileri
-- **Hedef**: Yazılım Geliştiricisi Olmak
-- **İlgi Alanları**: Yazılım geliştirme, açık kaynak, yapay zeka
+---
 
-## 📈 GitHub İstatistiklerim
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[EnesFurkan21]&show_icons=true&hide_title=true)
+### 🚀 Hakkımda
+- 🎓  Şu anda **Yazılım Mühendisliği** eğitimi alıyorum.
+- 💡 **Yazılım Geliştirme** konusunda eğitim alıyorum.
+- 📧 Email(mailto:ensfurkan2135@gmail.com).
 
-## 🚀 Popüler Projelerim
-- [Proje 1](https://github.com/[EnesFurkan21]/proje1) - Proje 1 hakkında kısa bir açıklama.
-- [Proje 2](https://github.com/[EnesFurkan21]/proje2) - Proje 2 hakkında kısa bir açıklama.
-- [Proje 3](https://github.com/[EnesFurkan21]/proje3) - Proje 3 hakkında kısa bir açıklama.
+---
 
-## 🌍 Sosyal Medya ve İletişim
-- [LinkedIn](https://www.linkedin.com/in/[LinkedInProfiliniz]) - Profesyonel profilim
-- [Twitter](https://twitter.com/[TwitterKullanıcıAdınız]) - Twitter hesabım
-- [Instagram](https://instagram.com/enes.furkan21) - Görsel projelerim ve kişisel paylaşımlarım
-- [E-posta](mailto:[ensfurkan2135@gmail.com]) - Bana e-posta gönderebilirsiniz.
+### 🛠 Kullandığım Teknolojiler ve Araçlar
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
 
-## 👾 Açık Kaynak Katkıları
-Açık kaynak projelerine katkı yaparak yazılım geliştirme becerilerimi artırmayı hedefliyorum. Eğer projelerime göz atmak isterseniz, yukarıdaki bağlantılara tıklayabilirsiniz.
+  
+</p>
 
-## ⚡ Teknik Beceriler
-- **Programlama Dilleri**: Python, Java, C++
-- **Araçlar**: Git, GitHub, VS Code, Eclipse
-- **İlgi Alanları**: Yapay Zeka, Web Geliştirme, Veri Bilimi
+---
 
-## 🏆 Hedeflerim
-1. Yazılım geliştirme becerilerimi her gün geliştirmek.
-2. Açık kaynak projelerine aktif katkılarda bulunmak.
-3. Yazılım mühendisliği alanında deneyim kazanmak.
-4. Kendi projelerimi yaratmak ve paylaşmak.
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnesFurkan21&show_icons=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesFurkan21&theme=dark" />
+</p>
+
+---
+
+### 📂 Öne Çıkan Projelerim
+- 🔍 **[ng-search-filter](https://github.com/EnesFurkan21/ng-search-filter)** 
+- 🏙 **[Smart City Reservation System](https://github.com/EnesFurkan21/Smart-City-Reservation-System)** 
